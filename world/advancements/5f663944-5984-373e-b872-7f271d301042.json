@@ -1,0 +1,514 @@
+{
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cod_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2022-03-25 22:30:11 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/raw_champignons": {
+    "criteria": {
+      "has_mushroom": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "sandwichmod:recipes/misc/slice": {
+    "criteria": {
+      "has_ingredient": "2022-03-25 22:35:44 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/fries": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/pork_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2022-03-25 22:32:30 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/salmon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/beef_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2022-03-25 22:29:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2022-03-25 22:33:37 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/mutton_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/chicken_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2022-03-25 22:33:37 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cooked_chicken_nugget": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/mutton_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/chicken_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2022-03-25 22:33:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2022-03-25 22:26:06 -0300",
+      "minecraft:lukewarm_ocean": "2022-03-25 22:32:18 -0300",
+      "minecraft:river": "2022-03-25 22:29:41 -0300",
+      "minecraft:swamp": "2022-03-25 22:25:56 -0300",
+      "minecraft:forest": "2022-03-25 22:25:43 -0300",
+      "minecraft:windswept_savanna": "2022-03-25 22:30:02 -0300",
+      "minecraft:savanna": "2022-03-25 22:36:03 -0300",
+      "minecraft:plains": "2022-03-25 22:32:52 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/beef_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2022-03-25 22:35:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-03-25 22:35:53 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cod_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-03-25 22:30:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/chicken_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/pork_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/salmon_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2022-03-25 22:30:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2022-03-25 22:32:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/fried_scrambled_egg": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2022-03-25 22:33:05 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/pork_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2022-03-25 22:27:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cheese": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cooked_champignons": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2022-03-25 22:35:53 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cod_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/mutton_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/scrambled_egg": {
+    "criteria": {
+      "has_egg": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2022-03-25 22:27:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2022-03-25 22:33:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/salmon_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/beef_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/sweet_berry_tart": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2022-03-25 22:35:40 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
