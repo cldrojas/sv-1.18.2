@@ -1,25 +1,1306 @@
 {
-  "minecraft:recipes/redstone/oak_fence_gate": {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2022-03-26 00:36:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-03-26 00:47:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oat_to_oat_seed_shapless": {
+    "criteria": {
+      "has_oat": "2022-03-26 00:17:14 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_popcorn": {
+    "criteria": {
+      "has_corn": "2022-03-26 02:07:59 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/tofu": {
+    "criteria": {
+      "has_soybean": "2022-03-26 00:18:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2022-03-26 02:10:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemon_to_lemon_sapling_shapless": {
+    "criteria": {
+      "has_lemon": "2022-03-26 02:07:58 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2022-03-25 23:31:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2022-03-26 00:50:40 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2022-03-25 23:36:53 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_knife": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-03-26 00:50:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-03-25 23:37:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-03-26 00:39:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/snicker_doodle": {
+    "criteria": {
+      "has_cinnamon": "2022-03-26 00:26:19 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/golden_pork_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-03-25 22:28:24 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/cod_champignon_burger": {
+  "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-03-25 23:36:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-03-25 22:27:38 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-03-25 22:30:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/chicken_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/molasses_smoker": {
+    "criteria": {
+      "has_sugar_cane": "2022-03-26 15:54:14 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/frying_pan": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2022-03-26 00:50:40 -0300"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "leek_seed": "2022-03-26 16:05:29 -0300",
+      "yam_seed": "2022-03-26 15:51:17 -0300",
+      "squash_seed": "2022-03-26 00:43:59 -0300",
+      "zucchini_seed": "2022-03-26 00:56:28 -0300",
+      "kiwi_seed": "2022-03-26 00:49:19 -0300",
+      "ginger_seed": "2022-03-26 00:44:18 -0300",
+      "turmeric_seed": "2022-03-26 15:52:09 -0300",
+      "olive_seed": "2022-03-26 15:55:06 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2022-03-26 00:23:28 -0300"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "sweetpotato_seed": "2022-03-26 00:17:16 -0300",
+      "bellpepper_seed": "2022-03-26 00:19:13 -0300",
+      "vanilla_seeds": "2022-03-26 01:03:22 -0300",
+      "yam_seed": "2022-03-26 15:51:17 -0300",
+      "saguaro_seed": "2022-03-25 23:46:57 -0300",
+      "greenbean_seed": "2022-03-26 16:02:29 -0300",
+      "pepper_seed": "2022-03-26 00:17:50 -0300",
+      "chile_pepper_seed": "2022-03-26 00:17:22 -0300",
+      "cabbage_seed": "2022-03-26 00:26:53 -0300",
+      "cucumber_seed": "2022-03-26 15:58:51 -0300",
+      "olive_seed": "2022-03-26 15:55:06 -0300",
+      "kale_seed": "2022-03-26 00:20:13 -0300",
+      "kiwi_seed": "2022-03-26 00:49:19 -0300",
+      "ginger_seed": "2022-03-26 00:44:18 -0300",
+      "soybean_seed": "2022-03-26 00:18:27 -0300",
+      "grape_seed": "2022-03-26 15:51:53 -0300",
+      "leek_seed": "2022-03-26 16:05:29 -0300",
+      "broccoli_seed": "2022-03-26 02:06:39 -0300",
+      "barley_seed": "2022-03-26 00:44:41 -0300",
+      "lettuce_seed": "2022-03-26 00:18:19 -0300",
+      "squash_seed": "2022-03-26 00:43:59 -0300",
+      "blackberry_seed": "2022-03-26 16:31:44 -0300",
+      "corn_seed": "2022-03-26 02:07:59 -0300",
+      "turmeric_seed": "2022-03-26 15:52:09 -0300",
+      "oat_seed": "2022-03-26 00:17:14 -0300",
+      "mustard_seed": "2022-03-26 00:18:42 -0300",
+      "zucchini_seed": "2022-03-26 00:56:28 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/pork_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2022-03-25 22:33:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-03-26 16:34:08 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_cream_pie": {
+    "criteria": {
+      "has_banana": "2022-03-26 00:25:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-03-25 23:35:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-03-26 00:40:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2022-03-26 01:02:13 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/raisins_smoker": {
+    "criteria": {
+      "has_grapes": "2022-03-26 15:51:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-03-26 16:02:41 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_to_banana_sapling_shapless": {
+    "criteria": {
+      "has_banana": "2022-03-26 00:25:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sushi": {
+    "criteria": {
+      "has_rice": "2022-03-26 16:29:21 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_steamed_broccoli": {
+    "criteria": {
+      "has_broccoli": "2022-03-26 02:05:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2022-03-25 23:31:41 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/spaghetti_squash": {
+    "criteria": {
+      "has_squash": "2022-03-26 00:43:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_cucumber": "2022-03-26 15:59:01 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/smelting_toast": {
+    "criteria": {
+      "has_bread": "2022-03-25 23:31:41 -0300"
+    },
+    "done": true
+  },
+  "croptopia:gather_drinks": {
+    "criteria": {
+      "apple_juice": "2022-03-26 02:17:06 -0300",
+      "orange_juice": "2022-03-26 15:58:45 -0300"
+    },
+    "done": false
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2022-03-26 16:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2022-03-26 01:48:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-03-25 23:37:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/tortilla": {
+    "criteria": {
+      "has_flour": "2022-03-25 23:31:41 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/rice_to_rice_seed_shapless": {
+    "criteria": {
+      "has_rice": "2022-03-26 16:29:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-03-26 16:03:26 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/wine": {
+    "criteria": {
+      "has_grapes": "2022-03-26 15:51:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2022-03-26 02:10:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2022-03-25 22:32:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-03-26 00:48:17 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/smelting_baked_yam": {
+    "criteria": {
+      "has_yam": "2022-03-26 15:51:17 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/vanilla_to_vanilla_seed_shapless": {
+    "criteria": {
+      "has_vanilla": "2022-03-26 01:03:45 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_kiwi_sorbet": {
+    "criteria": {
+      "has_kiwi": "2022-03-26 00:49:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-03-26 01:48:27 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-03-25 23:37:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_corn": "2022-03-26 02:07:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2022-03-26 01:02:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-03-25 23:44:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cucumber_salad": {
+    "criteria": {
+      "has_lettuce": "2022-03-26 00:18:19 -0300",
+      "has_the_recipe": "2022-03-26 00:18:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2022-03-26 01:28:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2022-03-26 00:36:10 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/popcorn": {
+    "criteria": {
+      "has_corn": "2022-03-26 02:07:59 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/molasses": {
+    "criteria": {
+      "has_sugar_cane": "2022-03-26 15:54:14 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ginger_to_ginger_seed_shapless": {
+    "criteria": {
+      "has_ginger": "2022-03-26 00:44:18 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/whipping_cream": {
+    "criteria": {
+      "has_vanilla": "2022-03-26 01:03:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2022-03-26 16:33:15 -0300",
+      "minecraft:spider": "2022-03-26 01:02:39 -0300",
+      "minecraft:zombie": "2022-03-26 01:00:31 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cooked_champignons": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemonade": {
+    "criteria": {
+      "has_lemon": "2022-03-26 02:07:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2022-03-26 02:11:24 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/greenbean_to_greenbean_seed_shapless": {
+    "criteria": {
+      "has_greenbean": "2022-03-26 16:02:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-03-25 23:36:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2022-03-26 00:48:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cod_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2022-03-26 00:36:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/blackberry_jam": {
+    "criteria": {
+      "has_blackberry": "2022-03-26 16:31:44 -0300"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2022-03-25 23:46:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2022-03-26 01:44:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/squash_to_squash_seed_shapless": {
+    "criteria": {
+      "has_squash": "2022-03-26 00:43:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-03-26 16:01:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-03-26 01:58:25 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/leek_to_leek_seed_shapless": {
+    "criteria": {
+      "has_leek": "2022-03-26 16:05:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/golden_beef_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/yam_jam": {
+    "criteria": {
+      "has_yam": "2022-03-26 15:51:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-03-26 01:28:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2022-03-26 00:40:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-03-26 01:44:47 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/mutton_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2022-03-26 02:01:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-03-26 02:10:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cooked_chicken_nugget": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2022-03-25 22:33:01 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/beef_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2022-03-26 01:37:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2022-03-26 01:02:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-03-25 23:33:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/zucchini_to_zucchini_seed_shapless": {
+    "criteria": {
+      "has_zucchini": "2022-03-26 00:56:28 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/pork_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/salmon_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-03-26 00:29:21 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/golden_salmon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2022-03-26 00:06:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2022-03-25 22:30:11 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/melon_juice": {
+    "criteria": {
+      "has_lemon": "2022-03-25 23:36:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2022-03-25 22:32:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2022-03-25 23:38:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2022-03-26 16:25:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "lettuce_seed": "2022-03-26 00:18:19 -0300",
+      "greenbean_seed": "2022-03-26 16:02:29 -0300",
+      "sweetpotato_seed": "2022-03-26 00:17:16 -0300",
+      "pepper_seed": "2022-03-26 00:17:50 -0300",
+      "chile_pepper_seed": "2022-03-26 00:17:22 -0300",
+      "cabbage_seed": "2022-03-26 00:26:53 -0300",
+      "cucumber_seed": "2022-03-26 15:58:51 -0300",
+      "bellpepper_seed": "2022-03-26 00:19:13 -0300",
+      "corn_seed": "2022-03-26 02:07:59 -0300",
+      "oat_seed": "2022-03-26 00:17:14 -0300",
+      "broccoli_seed": "2022-03-26 02:06:39 -0300",
+      "mustard_seed": "2022-03-26 00:18:42 -0300",
+      "kale_seed": "2022-03-26 00:20:13 -0300",
+      "barley_seed": "2022-03-26 00:44:41 -0300",
+      "soybean_seed": "2022-03-26 00:18:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2022-03-25 22:27:18 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soybeans_to_soybeans_seed_shapless": {
+    "criteria": {
+      "has_soybeans": "2022-03-26 00:18:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2022-03-25 23:33:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/steamed_rice": {
+    "criteria": {
+      "has_rice": "2022-03-26 16:29:21 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/horchata": {
+    "criteria": {
+      "has_cinnamon": "2022-03-26 00:26:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-03-26 16:03:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2022-03-26 00:06:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2022-03-26 00:36:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/mutton_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_scones": {
+    "criteria": {
+      "has_vanilla": "2022-03-26 01:03:45 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2022-03-26 00:19:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-03-26 01:33:40 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/yam_to_yam_seed_shapless": {
+    "criteria": {
+      "has_yam": "2022-03-26 15:51:17 -0300"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_wool": "2022-03-25 23:33:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_steamed_green_beans": {
+    "criteria": {
+      "has_green_beans": "2022-03-26 16:02:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-03-26 00:50:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/sweet_berry_tart": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/saguaro_to_saguaro_seed_shapless": {
+    "criteria": {
+      "has_saguaro": "2022-03-25 23:46:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/kale_smoothie": {
+    "criteria": {
+      "has_kale": "2022-03-26 00:20:13 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/broccoli_to_broccoli_seed_shapless": {
+    "criteria": {
+      "has_broccoli": "2022-03-26 02:05:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2022-03-26 00:48:17 -0300"
     },
     "done": true
   },
@@ -29,15 +1310,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:24 -0300"
+      "minecraft:zombie": "2022-03-26 01:00:31 -0300"
     },
     "done": true
   },
-  "sandwichmod:recipes/misc/slice": {
+  "croptopia:recipes/lettuce_to_lettuce_seed_shapless": {
     "criteria": {
-      "has_ingredient": "2022-03-25 22:35:44 -0300"
+      "has_lettuce": "2022-03-26 00:18:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
     },
     "done": true
   },
@@ -53,19 +1340,1179 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+  "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
-      "has_rose_bush": "2022-03-25 22:32:30 -0300"
+      "has_diorite": "2022-03-26 01:02:59 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/salmon_burger": {
+  "croptopia:recipes/apple_to_apple_sapling_shapless": {
+    "criteria": {
+      "has_apple": "2022-03-26 00:24:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/grape_juice": {
+    "criteria": {
+      "has_grape": "2022-03-26 15:51:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2022-03-25 23:41:46 -0300",
+      "minecraft:badlands": "2022-03-25 23:41:16 -0300",
+      "minecraft:savanna_plateau": "2022-03-26 15:55:31 -0300",
+      "minecraft:beach": "2022-03-25 22:26:06 -0300",
+      "minecraft:sparse_jungle": "2022-03-26 00:25:47 -0300",
+      "minecraft:lukewarm_ocean": "2022-03-25 22:32:18 -0300",
+      "minecraft:river": "2022-03-25 22:29:41 -0300",
+      "minecraft:stony_shore": "2022-03-26 00:09:07 -0300",
+      "minecraft:swamp": "2022-03-25 22:25:56 -0300",
+      "minecraft:forest": "2022-03-25 22:25:43 -0300",
+      "minecraft:desert": "2022-03-25 23:33:42 -0300",
+      "minecraft:jungle": "2022-03-26 00:05:25 -0300",
+      "minecraft:windswept_savanna": "2022-03-25 22:30:02 -0300",
+      "minecraft:warm_ocean": "2022-03-25 23:32:57 -0300",
+      "minecraft:meadow": "2022-03-26 00:44:47 -0300",
+      "minecraft:savanna": "2022-03-25 22:36:03 -0300",
+      "minecraft:plains": "2022-03-25 22:32:52 -0300"
+    },
+    "done": false
+  },
+  "croptopia:getsapling": {
+    "criteria": {
+      "has_sapling": "2022-03-26 00:12:10 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cod_burger": {
     "criteria": {
       "has_ingredients": "2022-03-25 22:26:26 -0300"
     },
     "done": true
   },
+  "croptopia:recipes/pepperoni": {
+    "criteria": {
+      "has_pepper": "2022-03-26 00:17:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2022-03-25 23:33:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food_press": {
+    "criteria": {
+      "has_the_recipe": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2022-03-26 02:01:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-03-26 02:16:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-03-25 23:37:35 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/kumquat_to_kumquat_sapling_shapless": {
+    "criteria": {
+      "has_kumquat": "2022-03-26 00:10:15 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2022-03-26 15:54:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "vanilla_seeds": "2022-03-26 01:03:22 -0300"
+    },
+    "done": false
+  },
+  "croptopia:recipes/orange_to_orange_sapling_shapless": {
+    "criteria": {
+      "has_orange": "2022-03-26 00:24:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2022-03-25 23:44:26 -0300"
+    },
+    "done": true
+  },
+  "croptopia:gather_desert": {
+    "criteria": {
+      "saguaro_seed": "2022-03-25 23:46:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/smoking_baked_yam": {
+    "criteria": {
+      "has_yam": "2022-03-26 15:51:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cheese": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_ratatouille": {
+    "criteria": {
+      "has_squash": "2022-03-26 00:43:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2022-03-26 02:10:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-03-26 01:44:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-03-26 00:07:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/real_pepper_to_pepper_seed_shapless": {
+    "criteria": {
+      "has_pepper": "2022-03-26 00:17:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2022-03-26 16:29:18 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/scrambled_egg": {
+    "criteria": {
+      "has_egg": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2022-03-25 23:47:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2022-03-25 22:33:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-26 02:10:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2022-03-26 16:29:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2022-03-26 02:01:13 -0300"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "blackberry_seed": "2022-03-26 16:31:44 -0300",
+      "grape_seed": "2022-03-26 15:51:53 -0300"
+    },
+    "done": false
+  },
+  "burgermod:recipes/beef_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2022-03-26 16:01:18 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/kale_chips": {
+    "criteria": {
+      "has_kale": "2022-03-26 00:20:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2022-03-26 16:14:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
   "burgermod:recipes/beef_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-03-26 16:03:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2022-03-25 22:33:37 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cherry_to_cherry_sapling_shapless": {
+    "criteria": {
+      "has_cherry": "2022-03-26 00:46:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2022-03-25 23:39:41 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/mutton_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2022-03-26 16:14:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2022-03-26 00:36:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2022-03-25 22:35:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/raisins": {
+    "criteria": {
+      "has_grapes": "2022-03-26 15:51:54 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/grape_jam": {
+    "criteria": {
+      "has_grape": "2022-03-26 15:51:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2022-03-26 02:03:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_pepper": "2022-03-26 00:17:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2022-03-26 00:48:03 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soy_milk": {
+    "criteria": {
+      "has_soybean": "2022-03-26 00:18:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-03-26 16:02:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-03-26 15:54:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2022-03-25 22:35:53 -0300"
+    },
+    "done": false
+  },
+  "croptopia:recipes/vanilla_ice_cream": {
+    "criteria": {
+      "has_vanilla": "2022-03-26 01:03:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-03-26 01:28:34 -0300"
+    },
+    "done": true
+  },
+  "croptopia:food_press": {
+    "criteria": {
+      "food_press": "2022-03-26 02:12:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-03-26 01:44:48 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/saguaro_juice": {
+    "criteria": {
+      "has_saguaro": "2022-03-25 23:46:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2022-03-26 01:28:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2022-03-26 02:05:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2022-03-26 00:16:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2022-03-26 02:11:24 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/popcorn_smoker": {
+    "criteria": {
+      "has_corn": "2022-03-26 02:07:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/salmon_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_oats": "2022-03-26 00:17:14 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soy_sauce": {
+    "criteria": {
+      "has_soybean": "2022-03-26 00:18:27 -0300"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_tag": {
+    "criteria": {
+      "has_small_backpack": "2022-03-26 00:36:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2022-03-25 22:35:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-03-25 23:37:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2022-03-26 00:36:10 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/cod_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2022-03-26 02:10:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/smoking_baked_sweet_potato": {
+    "criteria": {
+      "has_sweetpotato": "2022-03-26 00:17:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2022-03-26 16:13:02 -0300",
+      "minecraft:sheep": "2022-03-26 00:20:40 -0300",
+      "minecraft:cow": "2022-03-26 00:20:41 -0300",
+      "minecraft:chicken": "2022-03-26 00:42:23 -0300"
+    },
+    "done": false
+  },
+  "sandwichmod:recipes/misc/slice": {
+    "criteria": {
+      "has_ingredient": "2022-03-25 22:35:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2022-03-25 22:33:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-03-26 16:02:00 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/chicken_cheese_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/orange_juice": {
+    "criteria": {
+      "has_orange": "2022-03-26 00:24:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-03-25 22:35:53 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_fruit_cake": {
+    "criteria": {
+      "has_cinnamon": "2022-03-26 00:26:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2022-03-26 02:11:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-03-26 00:48:03 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2022-03-26 16:01:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2022-03-26 02:10:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pepper_to_pepper_seed_shapless": {
+    "criteria": {
+      "has_pepper": "2022-03-26 00:17:22 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/fried_scrambled_egg": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-03-26 01:44:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-03-25 23:37:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2022-03-26 02:11:24 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/leek_soup": {
+    "criteria": {
+      "has_leek": "2022-03-26 16:05:29 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cherry_pie": {
+    "criteria": {
+      "has_cherry": "2022-03-26 00:46:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2022-03-26 00:50:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-03-26 16:01:41 -0300"
+    },
+    "done": true
+  },
+  "culinaryconstruct:craft_culinary_food": {
+    "criteria": {
+      "craft": "2022-03-26 01:46:45 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/olive_oil": {
+    "criteria": {
+      "has_food_press": "2022-03-26 02:12:29 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/caesar_salad": {
+    "criteria": {
+      "has_lettuce": "2022-03-26 00:18:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-03-26 16:01:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-26 00:50:40 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_lemon_coconut_bar": {
+    "criteria": {
+      "has_lemon": "2022-03-26 02:07:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-03-26 16:02:41 -0300"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_medium": {
+    "criteria": {
+      "has_small_backpack": "2022-03-26 00:36:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-03-26 02:13:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-03-26 00:23:28 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_cinnamon": "2022-03-26 00:26:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/apple_juice": {
+    "criteria": {
+      "has_apple": "2022-03-26 00:24:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-03-25 23:39:33 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/grape_to_grape_seed_shapless": {
+    "criteria": {
+      "has_grape": "2022-03-26 15:51:54 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/kale_to_kale_seed_shapless": {
+    "criteria": {
+      "has_kale": "2022-03-26 00:20:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_raisins": {
+    "criteria": {
+      "has_grapes": "2022-03-26 15:51:54 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/turmeric_to_turmeric_seed_shapless": {
+    "criteria": {
+      "has_turmeric": "2022-03-26 15:52:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2022-03-25 22:27:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2022-03-26 00:50:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-03-26 15:54:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-03-26 01:02:59 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_baked_yam": {
+    "criteria": {
+      "has_yam": "2022-03-26 15:51:17 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/salmon_burger": {
     "criteria": {
       "has_ingredients": "2022-03-25 22:26:26 -0300"
     },
@@ -77,304 +2524,219 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "croptopia:recipes/shaped_sticky_toffee_pudding": {
     "criteria": {
-      "has_hay_block": "2022-03-25 22:33:37 -0300"
+      "has_vanilla": "2022-03-26 01:03:45 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/mutton_cheese_burger": {
+  "minecraft:recipes/decorations/loom": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_string": "2022-03-26 00:36:10 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/chicken_champignon_burger": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
+  "croptopia:recipes/apple_pie": {
     "criteria": {
-      "has_hay_block": "2022-03-25 22:33:37 -0300"
+      "has_apple": "2022-03-26 00:24:09 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/cooked_chicken_nugget": {
+  "croptopia:recipes/peach_to_peach_sapling_shapless": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_peach": "2022-03-26 00:24:39 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/mutton_champignon_burger": {
+  "croptopia:recipes/potato_chips": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_potato": "2022-03-26 16:01:41 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/chicken_cheese_burger": {
+  "croptopia:recipes/sweetpotato_to_sweetpotato_seed_shapless": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_sweetpotato": "2022-03-26 00:17:16 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
-      "has_cornflower": "2022-03-25 22:33:01 -0300"
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "croptopia:recipes/cabbage_to_cabbage_seed_shapless": {
     "criteria": {
-      "minecraft:beach": "2022-03-25 22:26:06 -0300",
-      "minecraft:lukewarm_ocean": "2022-03-25 22:32:18 -0300",
-      "minecraft:river": "2022-03-25 22:29:41 -0300",
-      "minecraft:swamp": "2022-03-25 22:25:56 -0300",
-      "minecraft:forest": "2022-03-25 22:25:43 -0300",
-      "minecraft:windswept_savanna": "2022-03-25 22:30:02 -0300",
-      "minecraft:savanna": "2022-03-25 22:36:03 -0300",
-      "minecraft:plains": "2022-03-25 22:32:52 -0300"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2022-03-25 22:28:26 -0300"
+      "has_cabbage": "2022-03-26 00:27:01 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
-      "has_stick": "2022-03-25 22:27:38 -0300"
+      "has_bamboo": "2022-03-26 00:07:46 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
+  "croptopia:recipes/documentation": {
     "criteria": {
-      "has_log": "2022-03-25 22:26:26 -0300"
+      "has_crop": "2022-03-25 23:36:53 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:24 -0300"
+      "has_wool": "2022-03-25 23:33:46 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/beef_burger": {
+  "croptopia:recipes/scrambled_eggs": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_egg": "2022-03-26 00:40:09 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
+  "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
-      "has_wheat": "2022-03-25 22:35:40 -0300"
+      "has_glass": "2022-03-26 02:13:31 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "croptopia:recipes/cucumber_to_cucumber_seed_shapless": {
     "criteria": {
-      "has_stick": "2022-03-25 22:27:38 -0300"
+      "has_cucumber": "2022-03-26 15:59:01 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "croptopia:recipes/surpreme_pizza": {
     "criteria": {
-      "has_stick": "2022-03-25 22:27:38 -0300"
+      "has_olive": "2022-03-26 15:55:06 -0300"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
-      "consumed_item": "2022-03-25 22:35:53 -0300"
+      "has_planks": "2022-03-26 02:10:24 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/cod_burger": {
+  "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_coal": "2022-03-26 01:03:22 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "burgermod:recipes/golden_cod_burger": {
     "criteria": {
-      "has_lots_of_items": "2022-03-25 22:30:11 -0300"
+      "has_ingredients": "2022-03-26 01:03:22 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
-      "in_water": "2022-03-25 22:26:02 -0300"
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/chicken_burger": {
+  "croptopia:recipes/toast": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_bread": "2022-03-25 23:31:41 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:26 -0300"
+      "has_golden_boots": "2022-03-25 23:47:36 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:24 -0300"
+      "has_cobblestone": "2022-03-26 00:22:33 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "croptopia:recipes/leafy_salad": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:24 -0300"
+      "has_lettuce": "2022-03-26 00:18:19 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/pork_cheese_burger": {
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_sand": "2022-03-25 23:39:33 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "croptopia:recipes/cherry_jam": {
     "criteria": {
-      "has_stick": "2022-03-25 22:27:38 -0300"
+      "has_cherry": "2022-03-26 00:46:54 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/salmon_champignon_burger": {
+  "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_diorite": "2022-03-26 01:02:59 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
-      "in_water": "2022-03-25 22:26:02 -0300"
+      "has_glass": "2022-03-26 02:13:31 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
+  "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:24 -0300"
+      "has_planks": "2022-03-26 00:50:40 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
+  "burgermod:recipes/golden_mutton_burger": {
     "criteria": {
-      "has_log": "2022-03-25 22:30:11 -0300"
+      "has_ingredients": "2022-03-26 01:03:22 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
+  "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:26 -0300"
+      "has_planks": "2022-03-26 01:28:34 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:24 -0300"
+      "has_stone": "2022-03-26 01:02:59 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
-      "has_dandelion": "2022-03-25 22:32:56 -0300"
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "croptopia:recipes/smoker_toast": {
     "criteria": {
-      "in_water": "2022-03-25 22:26:02 -0300"
+      "has_bread": "2022-03-25 23:31:41 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/fried_scrambled_egg": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
-      "in_water": "2022-03-25 22:26:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2022-03-25 22:33:05 -0300"
-    },
-    "done": true
-  },
-  "burgermod:recipes/pork_burger": {
-    "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2022-03-25 22:28:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2022-03-25 22:27:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2022-03-25 22:27:18 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2022-03-25 22:26:02 -0300"
-    },
-    "done": true
-  },
-  "burgermod:recipes/cheese": {
-    "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2022-03-25 22:26:26 -0300"
-    },
-    "done": true
-  },
-  "burgermod:recipes/cooked_champignons": {
-    "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2022-03-25 22:35:53 -0300"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2022-03-25 22:27:38 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2022-03-25 22:28:26 -0300"
+      "has_planks": "2022-03-26 02:10:24 -0300"
     },
     "done": true
   },
@@ -384,39 +2746,33 @@
     },
     "done": true
   },
-  "burgermod:recipes/cod_cheese_burger": {
+  "croptopia:recipes/smelting_baked_sweet_potato": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_sweetpotato": "2022-03-26 00:17:16 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "croptopia:recipes/chicken_and_rice": {
     "criteria": {
-      "has_logs": "2022-03-25 22:26:26 -0300"
+      "has_rice": "2022-03-26 16:29:21 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
+  "croptopia:recipes/kiwi_to_kiwi_seed_shapless": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:26 -0300"
+      "has_kiwi": "2022-03-26 00:49:19 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/mutton_burger": {
+  "croptopia:recipes/banana_smoothie": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_banana": "2022-03-26 00:25:55 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_slab": {
+  "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:26 -0300"
-    },
-    "done": true
-  },
-  "burgermod:recipes/scrambled_egg": {
-    "criteria": {
-      "has_egg": "2022-03-25 22:26:26 -0300"
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
     },
     "done": true
   },
@@ -426,21 +2782,345 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_fence_gate": {
+  "croptopia:recipes/shaped_buttered_green_beans": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:26 -0300"
+      "has_greenbeans": "2022-03-26 16:02:29 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-03-26 01:44:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-03-25 23:35:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-03-26 01:02:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-03-26 02:11:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-03-26 00:48:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2022-03-26 01:02:13 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/golden_chicken_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/paprika": {
+    "criteria": {
+      "has_chile_peppers": "2022-03-26 00:17:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2022-03-26 01:28:34 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_the_recipe": "2022-03-26 02:07:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-03-25 23:37:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2022-03-25 22:30:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2022-03-26 02:11:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-03-25 22:28:24 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "croptopia:recipes/olive_to_olive_seed_shapless": {
     "criteria": {
-      "has_oxeye_daisy": "2022-03-25 22:33:05 -0300"
+      "has_olive": "2022-03-26 15:55:06 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/corn_husk": {
+    "criteria": {
+      "has_corn": "2022-03-26 02:07:59 -0300"
+    },
+    "done": true
+  },
+  "burgermod:recipes/chicken_champignon_burger": {
+    "criteria": {
+      "has_ingredients": "2022-03-25 22:26:26 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_roasted_squash": {
+    "criteria": {
+      "has_squash": "2022-03-26 00:43:59 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/peach_jam": {
+    "criteria": {
+      "has_peach": "2022-03-26 00:24:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "sandwichmod:recipes/misc/fried_egg": {
+    "criteria": {
+      "has_ingredient": "2022-03-26 01:44:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-03-26 01:35:39 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2022-03-26 02:05:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/corn_to_corn_seed_shapless": {
+    "criteria": {
+      "has_corn": "2022-03-26 02:07:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:24 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_baked_sweet_potato": {
+    "criteria": {
+      "has_sweetpotato": "2022-03-26 00:17:16 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sweet_potato_fries": {
+    "criteria": {
+      "has_sweetpotatos": "2022-03-26 00:17:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-26 01:28:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2022-03-26 00:48:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-03-25 22:26:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-03-26 00:39:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-03-26 16:01:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2022-03-26 00:35:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2022-03-26 01:28:34 -0300"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_wool": "2022-03-25 23:33:46 -0300"
+    },
+    "done": true
+  },
+  "sandwichmod:recipes/misc/egg": {
+    "criteria": {
+      "has_ingredient": "2022-03-26 00:40:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-03-26 00:20:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-03-26 01:28:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-03-25 22:28:26 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/blackberry_to_blackberry_seed_shapless": {
+    "criteria": {
+      "has_blackberry": "2022-03-26 16:31:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-03-26 02:11:24 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_shepherds_pie": {
+    "criteria": {
+      "has_corn": "2022-03-26 02:07:59 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemon_chicken": {
+    "criteria": {
+      "has_lemon": "2022-03-26 02:07:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-03-26 00:50:40 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_nut_bread": {
+    "criteria": {
+      "has_banana": "2022-03-26 00:25:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_peanut_butter": {
+    "criteria": {
+      "has_peanuts": "2022-03-26 01:03:22 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/bellpepper_to_bellpepper_seed_shapless": {
+    "criteria": {
+      "has_bellpepper": "2022-03-26 00:19:13 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/barley_to_barley_seed_shapless": {
+    "criteria": {
+      "has_barley": "2022-03-26 00:44:41 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/mustard_to_mustard_seed_shapless": {
+    "criteria": {
+      "has_mustard": "2022-03-26 00:18:42 -0300"
     },
     "done": true
   },
@@ -450,63 +3130,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "has_stick": "2022-03-25 22:27:38 -0300"
+      "iron": "2022-03-26 00:48:16 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/salmon_cheese_burger": {
+  "croptopia:recipes/ham_sandwich": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_cooked_porkchop": "2022-03-26 01:43:22 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "in_water": "2022-03-25 22:26:02 -0300"
+      "has_melon": "2022-03-25 23:36:53 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
+  "croptopia:recipes/shaped_ajvar": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:24 -0300"
+      "has_bellpepper": "2022-03-26 00:19:13 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
+  "croptopia:getdrinks": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:26 -0300"
+      "has_drink": "2022-03-26 02:17:06 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_trapdoor": {
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:24 -0300"
+      "has_glass": "2022-03-26 02:13:31 -0300"
     },
     "done": true
   },
-  "burgermod:recipes/beef_champignon_burger": {
+  "croptopia:recipes/fruit_salad": {
     "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
+      "has_apple": "2022-03-26 00:24:09 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_slab": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_planks": "2022-03-25 22:28:24 -0300"
-    },
-    "done": true
-  },
-  "burgermod:recipes/sweet_berry_tart": {
-    "criteria": {
-      "has_ingredients": "2022-03-25 22:26:26 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2022-03-25 22:35:40 -0300"
+      "has_bone_meal": "2022-03-26 02:03:22 -0300"
     },
     "done": true
   },
